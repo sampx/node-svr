@@ -1,4 +1,7 @@
 node_modules
+Thumbs.db
+bower_components
 example
 .DS_Store
 coverage
+
